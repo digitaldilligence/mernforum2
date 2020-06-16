@@ -1,0 +1,14 @@
+#main-nav{
+    display:flex;
+    justify-content:space-between;
+}
+#main-nav ul{
+    display:flex;
+    list-style:none;
+    justify-content: space-evenly;
+}
+#main-nav ul li a{
+    color:black;
+    text-decoration:none;
+    padding:.6rem;
+}
